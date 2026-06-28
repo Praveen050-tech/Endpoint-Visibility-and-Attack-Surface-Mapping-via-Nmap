@@ -73,13 +73,7 @@ Bash
 
 <img width="865" height="627" alt="image" src="https://github.com/user-attachments/assets/bf71f9f2-cb2e-4729-aef4-5c051f345e5a" />
 
-4. Analytical Attack Surface Matrix
-
-Network Socket,Port Status,Process Service,Version Provenance
-22/TCP,OPEN,SSH,OpenSSH 9.2p1 Debian 2+deb12u3
-80/TCP,OPEN,HTTP,Apache httpd 2.4.57 (Debian)
-
-5. Key Cybersecurity Takeaways
+4. Key Cybersecurity Takeaways
 
 Defensive Asset Visibility: You cannot secure what you do not know exists. Regular network audits establish an objective baseline of exposed ports, preventing unauthorized services ("shadow IT") from expanding the attack surface.
 
