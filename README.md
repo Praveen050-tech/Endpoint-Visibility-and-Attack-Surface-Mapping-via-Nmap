@@ -75,9 +75,9 @@ Bash
 
 4. Analytical Attack Surface Matrix
 
-Target Asset,Verified Port,Protocol,Service Banner,Exposure Classification
-45.33.32.156,22,TCP,OpenSSH 9.2p1 Debian,Authorized Secure Remote Access
-45.33.32.156,80,TCP,Apache httpd 2.4.57,Authorized Public Web Server
+Network Socket,Port Status,Process Service,Version Provenance
+22/TCP,OPEN,SSH,OpenSSH 9.2p1 Debian 2+deb12u3
+80/TCP,OPEN,HTTP,Apache httpd 2.4.57 (Debian)
 
 5. Key Cybersecurity Takeaways
 
